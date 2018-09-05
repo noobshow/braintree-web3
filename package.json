@@ -1,12 +1,12 @@
 {
-  "name": "braintree-web",
+  "name": "braintree-web3",
   "version": "3.6.0",
   "license": "MIT",
   "main": "src/index.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/braintree/braintree-web.git"
+    "url": "https://github.com/tyanhly/braintree-web3.git"
   },
   "scripts": {
     "jsdoc": "./scripts/npm-to-gulp jsdoc",
